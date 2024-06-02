@@ -26,7 +26,6 @@ Bonus: Are there privacy implications to this, why or why not?
 
 Retains Changes in address:
 
-![image](https://github.com/NabZaf/sql/assets/67026567/0d43c04f-bcae-4efd-abfe-5e54ff1d100a)
 
 (Type2)
 ```
