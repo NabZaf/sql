@@ -22,7 +22,13 @@ _Hint, search type 1 vs type 2 slowly changing dimensions._
 
 Bonus: Are there privacy implications to this, why or why not?
 ```
-Your answer...
+
+
+Retains Changes in address:
+
+![image](https://github.com/NabZaf/sql/assets/67026567/0d43c04f-bcae-4efd-abfe-5e54ff1d100a)
+
+(Type2)
 ```
 
 ## Question 4
