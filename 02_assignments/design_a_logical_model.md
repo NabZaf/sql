@@ -21,14 +21,15 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 _Hint, search type 1 vs type 2 slowly changing dimensions._
 
 Bonus: Are there privacy implications to this, why or why not?
+Does not retain changes - Type 1
+![image](https://github.com/NabZaf/sql/assets/67026567/9b7d84b6-9196-4c31-9863-7920f4c6f98d)
+
+Retains Changes in address Type2
+![image](https://github.com/NabZaf/sql/assets/67026567/5bcd253c-f160-42dc-9d23-69ad7745050d)
+
+
 ```
 
-
-Retains Changes in address:
-![image](https://github.com/NabZaf/sql/assets/67026567/0d43c04f-bcae-4efd-abfe-5e54ff1d100a)
-
-
-(Type2)
 ```
 
 ## Question 4
