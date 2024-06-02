@@ -21,6 +21,8 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 _Hint, search type 1 vs type 2 slowly changing dimensions._
 
 Bonus: Are there privacy implications to this, why or why not?
+Saving the address should require customer consent. 
+
 Does not retain changes - Type 1
 ![image](https://github.com/NabZaf/sql/assets/67026567/9b7d84b6-9196-4c31-9863-7920f4c6f98d)
 
