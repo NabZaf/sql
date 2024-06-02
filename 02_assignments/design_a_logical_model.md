@@ -39,8 +39,13 @@ Review the AdventureWorks Schema [here](https://i.stack.imgur.com/LMu4W.gif)
 
 Highlight at least two differences between it and your ERD. Would you change anything in yours?
 ```
-Your answer...
+1.	The AdventureWorks Schema has far more tables and far more relationships. Each table is also in greater detail.
+2.	The AdvenureWorks schema does not whether the relationships are one-to-one, one-to-many or many-to-many.
+If I had more time, I would make my diagram in more detail. I would think about what I need in the tables to better understand customer preferences and to build a better relationship with my customers. Of course, One needs to keep data privacy and other ethical issues in mind.
+
 ```
+
+
 
 # Criteria
 
